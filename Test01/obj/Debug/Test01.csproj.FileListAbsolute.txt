@@ -1,0 +1,5 @@
+C:\Dojo_Sergipe_Exercicios\Test01\Test01\bin\Debug\Test01.dll
+C:\Dojo_Sergipe_Exercicios\Test01\Test01\bin\Debug\Test01.pdb
+C:\Dojo_Sergipe_Exercicios\Test01\Test01\obj\Debug\Test01.csprojResolveAssemblyReference.cache
+C:\Dojo_Sergipe_Exercicios\Test01\Test01\obj\Debug\Test01.dll
+C:\Dojo_Sergipe_Exercicios\Test01\Test01\obj\Debug\Test01.pdb

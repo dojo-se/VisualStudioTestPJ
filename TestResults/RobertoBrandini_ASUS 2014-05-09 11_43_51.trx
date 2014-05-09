@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="404d26ab-58f3-4335-82ce-ec9ac2f3ee03" name="RobertoBrandini@ASUS 2014-05-09 11:43:51" runUser="ASUS\RobertoBrandini" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="1a6369a1-9671-46ee-be15-7888b42ca6d0">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="RobertoBrandini_ASUS 2014-05-09 11_43_51" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-05-09T11:43:51.7726859-03:00" queuing="2014-05-09T11:43:53.3857781-03:00" start="2014-05-09T11:43:53.4757833-03:00" finish="2014-05-09T11:44:22.9014664-03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="ASUS" outcome="Error" timestamp="2014-05-09T11:44:22.9004663-03:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\dojo_sergipe_exercicios\test01\test01\bin\debug\test01.dll" id="003ea1fe-208c-ff9b-dc3b-15c8f4e0489d">
+      <Execution id="ca4a4ec8-18eb-47bd-8bba-c855863e72d0" />
+      <TestMethod codeBase="C:/Dojo_Sergipe_Exercicios/Test01/Test01/bin/Debug/Test01.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test01.UnitTest1, Test01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="003ea1fe-208c-ff9b-dc3b-15c8f4e0489d" executionId="ca4a4ec8-18eb-47bd-8bba-c855863e72d0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ca4a4ec8-18eb-47bd-8bba-c855863e72d0" testId="003ea1fe-208c-ff9b-dc3b-15c8f4e0489d" testName="TestMethod1" computerName="ASUS" duration="00:00:29.3036761" startTime="2014-05-09T11:43:53.5967902-03:00" endTime="2014-05-09T11:44:22.9004663-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ca4a4ec8-18eb-47bd-8bba-c855863e72d0">
+    </UnitTestResult>
+  </Results>
+</TestRun>
